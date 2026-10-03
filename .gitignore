@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+models/*.onnx
+*.engine
+results/
+profiles/
+.vscode/
+.idea/
+.DS_Store
